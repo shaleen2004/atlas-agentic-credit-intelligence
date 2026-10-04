@@ -72,6 +72,21 @@ Atlas is a **live, commercial SaaS product**, the platform behind **[resurgentin
 
 ---
 
+## 💬 TEV Studio — a report you can edit by chatting with it
+
+Techno-economic viability (TEV) reports are generated **chapter by chapter** (technical feasibility, industry & market analysis, financial viability, SWOT/risk, critical success factors), each grounded in the client's uploaded financial model and supporting documents.
+
+A dedicated chat sits next to every chapter. An analyst can ask a general question about the company, or ask the assistant to revise one specific numbered section — **only that section changes**, nothing else in the document moves, and "Convert to Word" always reflects the latest edit in the original template's exact styling. Every figure the assistant writes carries a citation back to the source cell or document.
+
+<div align="center">
+<img src="docs/screenshots/tev-studio-chat.png" alt="TEV Studio chat and chapter view (illustrative demo data)"/>
+<sub><i>Illustrative demo company and figures — not real client data.</i></sub>
+</div>
+
+It also validates a client's draft financial model against the final one and flags discrepancies automatically, and tracks a real per-call Gemini + Claude cost ledger for every report.
+
+---
+
 ## 📚 What it produces
 
 <div align="center">
