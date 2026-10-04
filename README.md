@@ -125,13 +125,13 @@ Atlas is built by a small engineering team at **Resurgent India**. I'm one of it
 - **CMA Live**: the in-browser, formula-driven credit workbook and custom bank-template mapping.
 - **Credit Appraisal Memo workspace**: a banker-editable appraisal document.
 - **Production reliability**: notification watchdogs, performance work, deployments, and a full quality audit of production reports.
-- **Screening backbone**: Atlas's AML, sanctions and PEP reports run on **[Argus](https://github.com/Aaayyuusshhh/argus-aml-intelligence-engine)**, the 12.2M-record AML engine I built.
+- **Screening backbone**: Atlas's AML, sanctions and PEP reports run on Argus, a 12.2M-record AML engine built by a teammate at Resurgent India.
 
 ---
 
 <div align="center">
 
-**[Aayush Katyal](https://github.com/Aaayyuusshhh)** · Resurgent India
+**[Shaleen Chhabra](https://github.com/shaleen2004)** · Resurgent India
 
 <sub>Atlas is proprietary commercial software. This repository is a public product showcase and contains no source code, client data or credentials. "Atlas" is the codename used here for the platform behind resurgentindia.ai.</sub>
 
